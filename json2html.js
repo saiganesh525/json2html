@@ -1,5 +1,6 @@
 // json2html.js
-export default function json2html(data) {
+export default function json2html(data) "https://github.com/saiganesh525/json2html.git"
+{
     // Start the table and add the custom data-user attribute
     let tableHtml = '<table data-user="sugurusaiganesh1@gmail.com">';
   
